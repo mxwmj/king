@@ -1,4 +1,4 @@
-|<center>platform</center>|username|password|
+|<center>platform</center>|<center>username</center>|<center>password</center>|
 |:---|:---|:---|
 |email|minxianwmj@163.com|KINGking201120|
 |email|minxianlhq@163.com|KINGking201120|
